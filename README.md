@@ -13,3 +13,9 @@
 
 [interface.docx](https://github.com/atena1380/Computer-Networking-Exercises/files/8755053/interface.docx)
 
+[computer.pdf](https://github.com/atena1380/Computer-Networking-Exercises/files/8759607/computer.pdf)
+
+[default gateway.pdf](https://github.com/atena1380/Computer-Networking-Exercises/files/8759610/default.gateway.pdf)
+
+[interface.pdf](https://github.com/atena1380/Computer-Networking-Exercises/files/8759611/interface.pdf)
+
